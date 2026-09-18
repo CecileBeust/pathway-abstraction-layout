@@ -6,7 +6,11 @@
 [make]: https://www.gnu.org/software/make
 [docker]: https://www.docker.com/
 
-# Cytoscape Container REST Service
+# Service App code for pathway-centered abstraction layout of Reactome top-level pathways
+
+This repository is cloned from the Cytoscape Container REST Service repository (https://github.com/cytoscape/cytocontainer-rest-server)
+
+Original README of the cloned repository:
 
 The **Cytoscape Container REST Service** is a reference implementation of a **Service App host** for **Cytoscape Web**. It provides a REST interface that executes Docker-packaged analysis tools (Service Apps) in isolated containers, captures their output, and returns results to Cytoscape Web according to the Service App Framework specification.
 
